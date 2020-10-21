@@ -4,7 +4,7 @@
 
 - TypeScript
 
-- MongoDB
+- MongoDB or MySQL
 
 - Express.js
 
