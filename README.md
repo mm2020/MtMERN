@@ -1,13 +1,13 @@
 # MtMern
 
--Material-UI
+- Material-UI
 
--TypeScript
+- TypeScript
 
--MongoDB
+- MongoDB
 
--Express.js
+- Express.js
 
--React
+- React
 
--Node.js
+- Node.js
